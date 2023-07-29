@@ -16,7 +16,7 @@ const Footer = (props) => {
         </p>
         <div className="footer">
           <a
-            href="https://github.com/datta1054/News-Slim"
+            href="https://github.com/VivekAH555/NewsSlim"
             target="_blank"
             rel="noreferrer"
           >
